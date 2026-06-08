@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video to HTML"
+  short_description: "YouTube video to interactive HTML report"
+  default_prompt: "Create an interactive HTML report from this YouTube URL or transcript using the fixed workshop report design."

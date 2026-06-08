@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tree To Ontology"
+  short_description: "Upgrade tree wikis to typed ontology graphs"
+  default_prompt: "Upgrade a tree-structured markdown wiki into an ontology by preserving the tree and adding typed relations."

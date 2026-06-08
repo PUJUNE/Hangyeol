@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tree Wiki Builder"
+  short_description: "Build single-parent tree wikis"
+  default_prompt: "Build or maintain a tree-structured markdown wiki with single-parent links and lint checks."

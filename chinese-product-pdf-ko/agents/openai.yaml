@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Product PDF KO"
+  short_description: "중국어 제품 설명서 PDF를 한국어 PDF로 번역·재작성"
+  default_prompt: "중국어 제품 설명서 PDF를 한국어로 번역한 PDF를 만들어줘."
